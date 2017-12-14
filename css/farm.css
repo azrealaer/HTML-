@@ -1,0 +1,21 @@
+h2 {
+    color: #9c2f06;
+    font-size: 18px;
+    line-height: 40px;
+    font-weight: bold;
+}
+
+li {
+    color: #9c2f06;
+    font-size: 12px;
+    line-height: 20px;
+
+}
+
+/*ol{*/
+    /*padding: 20px;*/
+/*}*/
+
+li,img {
+    vertical-align: middle;
+}

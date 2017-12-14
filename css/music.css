@@ -1,0 +1,13 @@
+h2 {
+    font:bold 18px "楷体";
+}
+
+p {
+    font: 12px "Times New Roman" ,"宋体";
+    line-height: 20px;
+}
+
+.ABC {
+    color: #FF0000;
+    font-weight: bold;
+}
